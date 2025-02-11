@@ -44,17 +44,17 @@ The study reinforces the importance of data analysis and statistics in monitorin
 
 ## 📸 Materiais Visuais | Visual Materials
 
-## **Apresentação do Projeto no XII Congresso de Geriatria e Gerontologia - GERP2022, no eixo de Epidemiologia:**
-## **Project Presentation at the XII Congress of Geriatrics and Gerontology - GERP2022, in the Epidemiology track:**
+### **Apresentação do Projeto no XII Congresso de Geriatria e Gerontologia - GERP2022, no eixo de Epidemiologia:**
+### **Project Presentation at the XII Congress of Geriatrics and Gerontology - GERP2022, in the Epidemiology track:**
 
 https://github.com/user-attachments/assets/435b7b95-a732-4ad4-b261-49b6928683ab
 
-## **Certificado de Apresentação do Projeto no XII Congresso de Geriatria e Gerontologia - GERP2022, no eixo de Epidemiologia:**
-## **Certificate of Project Presentation at the XII Congress of Geriatrics and Gerontology - GERP2022, in the Epidemiology track:**
+### **Certificado de Apresentação do Projeto no XII Congresso de Geriatria e Gerontologia - GERP2022, no eixo de Epidemiologia:**
+### **Certificate of Project Presentation at the XII Congress of Geriatrics and Gerontology - GERP2022, in the Epidemiology track:**
 
 ![Certificado_GERP2022_mudancas](https://github.com/user-attachments/assets/32692250-8a88-4b22-97be-58d169cb657b)
 
-## **Certificado de Apresentação no Congresso Ganepão 2022:**
-## **Certificate of Presentation at the Ganepão Congress 2022:**
+### **Certificado de Apresentação no Congresso Ganepão 2022:**
+### **Certificate of Presentation at the Ganepão Congress 2022:**
 
 ![Certificado_Ganepao2022_mudanças](https://github.com/user-attachments/assets/a44dd16c-0948-4ca8-a158-d68f403928f0)
